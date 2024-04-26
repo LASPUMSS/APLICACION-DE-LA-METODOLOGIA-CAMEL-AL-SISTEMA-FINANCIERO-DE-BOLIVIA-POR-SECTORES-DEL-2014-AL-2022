@@ -9,6 +9,7 @@
 *.docx
 *.rar
 *.pdf
+*.csv
 
 # IGNORAR CARPETAS
 tmp_files_imgs/
