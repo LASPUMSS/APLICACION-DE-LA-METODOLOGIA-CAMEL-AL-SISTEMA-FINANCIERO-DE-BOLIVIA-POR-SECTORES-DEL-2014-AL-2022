@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# IGNORAR ARCHIVOS DEL TIPO
+*.zip
+*.xlsx
+*.docx
+
+# IGNORAR CARPETAS
+tmp_files_imgs/
+.Rproj.user/
