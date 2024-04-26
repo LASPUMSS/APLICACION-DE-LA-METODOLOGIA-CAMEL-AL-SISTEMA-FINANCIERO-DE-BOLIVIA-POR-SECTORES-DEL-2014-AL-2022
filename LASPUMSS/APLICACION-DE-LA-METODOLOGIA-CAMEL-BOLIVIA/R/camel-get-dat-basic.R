@@ -3,7 +3,7 @@ getDatEEFF <- function() {
     require(openxlsx)
     require(dplyr)
  
-    rootFile <- 'LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/DATA/BBDD_ESTADOS_FINANCIEROS.xlsx'
+    rootFile <- 'LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/DATA/BBDD_ESTADOS_FINANCIEROS.xlsx'
     dat <- read.xlsx(rootFile)
 
     dat$FECHA <- convertToDate(dat$FECHA)

@@ -1,7 +1,7 @@
 getDatEEFFByGroup <- function(dat=NULL, by='TIPO_DE_ENTIDAD') {
     
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-CAP-indicator.R')
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-basic.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-CAP-indicator.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-basic.R')
     require(dplyr)
     
     datCAP <- getDatCAP()

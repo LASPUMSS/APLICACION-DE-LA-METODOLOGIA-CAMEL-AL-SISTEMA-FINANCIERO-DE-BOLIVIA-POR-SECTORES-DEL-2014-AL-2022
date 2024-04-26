@@ -3,10 +3,10 @@
 getDatVariablesDiagnostico <- function(by = 'TIPO_DE_ENTIDAD', gestionInc=2022) {
 
     # Funciones necesarias
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-list-functions-indicadores.R')
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-variablesForCamel.R')
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-basic.R')
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-group.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-list-functions-indicadores.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-variablesForCamel.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-basic.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-group.R')
     require(dplyr)
     
     # Verificar dat

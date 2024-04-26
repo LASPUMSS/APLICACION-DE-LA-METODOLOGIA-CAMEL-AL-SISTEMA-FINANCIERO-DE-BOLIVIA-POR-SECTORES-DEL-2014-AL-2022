@@ -1,5 +1,5 @@
 ```{r results='hide'}
-rootRSourse <- 'LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R'
+rootRSourse <- 'LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R'
 sapply( list.files(rootRSourse, full.names=TRUE, pattern='\\.[rR]$'), source )
 
 require(dplyr)

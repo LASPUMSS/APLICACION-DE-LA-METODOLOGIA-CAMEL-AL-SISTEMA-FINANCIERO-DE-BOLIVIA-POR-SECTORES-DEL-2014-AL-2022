@@ -2,8 +2,8 @@
 
 getDatEEFFNormalizada <- function(by='ENTIDAD') {
   
-  source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-basic.R')
-  source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-group.R')
+  source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-basic.R')
+  source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-group.R')
   
   dat <- getDatEEFF() 
   dat <- getDatEEFFByGroup(dat, by)

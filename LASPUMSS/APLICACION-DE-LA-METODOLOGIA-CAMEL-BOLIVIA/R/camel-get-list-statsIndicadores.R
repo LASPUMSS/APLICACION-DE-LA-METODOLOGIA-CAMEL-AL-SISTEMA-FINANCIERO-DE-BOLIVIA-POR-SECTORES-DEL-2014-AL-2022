@@ -1,7 +1,7 @@
 getListStatsOverviewInd <- function(ids, datCamelIndNorm, datIdsNamesCamelInds,roundInd=FALSE) {
     
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-dat-tendencia-stats-overview.R')
-    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIIVIA/R/camel-get-plot-by-id.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-dat-tendencia-stats-overview.R')
+    source('LASPUMSS/APLICACION-DE-LA-METODOLOGIA-CAMEL-BOLIVIA/R/camel-get-plot-by-id.R')
     
     require(dplyr)
     
