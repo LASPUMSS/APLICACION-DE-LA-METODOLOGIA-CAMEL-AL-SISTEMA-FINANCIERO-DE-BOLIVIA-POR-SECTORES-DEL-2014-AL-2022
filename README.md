@@ -8,4 +8,4 @@ Este trabajo está bajo licencia
 [![CC BY NC 4.0][cc-by-nc-image]][cc-by-nc]
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://mirrors.creativecommons.org/presskit/buttons/70x10/png/by-nc.png
+[cc-by-nc-image]: https://mirrors.creativecommons.org/presskit/buttons/10x10/png/by-nc.png
