@@ -10,6 +10,7 @@
 *.rar
 *.pdf
 *.csv
+*.Rhistory
 
 # IGNORAR CARPETAS
 tmp_files_imgs/
