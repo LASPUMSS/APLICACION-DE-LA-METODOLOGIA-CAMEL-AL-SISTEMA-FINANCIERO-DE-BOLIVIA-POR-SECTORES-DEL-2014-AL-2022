@@ -1,7 +1,5 @@
 # APLICACION DE LA METODOLOGIA CAMEL AL SISTEMA FINANCIERO DE-BOLIVIA POR SECTORES DEL 2014 AL 2022
 
-- [Presentación web - Revista Búsqueda](#)
-
 Este trabajo está bajo licencia 
 [Creative Commons Attribution 4.0 International License][cc-by-nc].
 
