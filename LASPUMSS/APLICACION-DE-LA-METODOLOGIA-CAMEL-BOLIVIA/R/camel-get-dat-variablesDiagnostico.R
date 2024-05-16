@@ -42,9 +42,9 @@ getDatVariablesDiagnostico <- function(by = 'TIPO_DE_ENTIDAD', gestionInc=2022) 
     datResult$CARTERA_VENCIDA=cartVnc
     datResult$CARTERA_EN_EJECUCION <- cartEjc
     datResult$CARTERA_VIGENTE <- cartVgt
-    datResult$CARTERA_VENCIDA_REPROGRAMADA <- cartEjcRep
-    datResult$CARTERA_EN_EJECUCION_REPROGRAMADA <- cartVgtRep
-    datResult$CARTERA_VIGENTE_REPROGRAMADA <- cartEjcRep
+    datResult$CARTERA_VENCIDA_REPROGRAMADA <- cartVncRep
+    datResult$CARTERA_EN_EJECUCION_REPROGRAMADA <- cartEjcRep
+    datResult$CARTERA_VIGENTE_REPROGRAMADA <- cartVgtRep
     datResult$PREVISION_INCOBRABILIDAD_CARTERA <- prevCart
     datResult$PATRIMONIO <- patrimonio
     datResult$ACTIVOS_REALIZABLES <- realizables
