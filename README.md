@@ -1,6 +1,6 @@
 # APLICACION DE LA METODOLOGIA CAMEL AL SISTEMA FINANCIERO DE-BOLIVIA POR SECTORES DEL 2014 AL 2022
 
-- [Presentación Web Revista]([#](https://revistas.umss.edu.bo/index.php/busqueda/article/view/1076))
+- [Presentación Web Revista]([#](https://revistas.umss.edu.bo/index.php/busqueda/article/view/1076/))
 - [Informe final (Arvivo pdf)](https://doi.org/10.5281/zenodo.11159619)
 
 
